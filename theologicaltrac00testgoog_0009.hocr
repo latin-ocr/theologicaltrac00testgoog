@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theologicaltrac00testgoog_0009.png"; bbox 0 0 598 915; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 96 6 157 28">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 96 6 157 28">
+     <span class='ocr_line' id='line_1_1' title="bbox 96 6 157 28; baseline 0.033 -2"><span class='ocrx_word' id='word_1_1' title='bbox 96 6 157 28; x_wconf 58' lang='lat' dir='ltr'>&amp;mn</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 70 92 157 210">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 85 92 157 149">
+     <span class='ocr_line' id='line_1_2' title="bbox 90 92 133 117; baseline 0.047 -2"><span class='ocrx_word' id='word_1_2' title='bbox 90 92 133 117; x_wconf 68' lang='grc' dir='ltr'>ΡΑ</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 85 123 157 149; baseline 0.042 -3"><span class='ocrx_word' id='word_1_3' title='bbox 85 123 157 149; x_wconf 60' lang='grc' dir='ltr'>εἰει</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 70 154 153 210">
+     <span class='ocr_line' id='line_1_4' title="bbox 70 154 122 178; baseline -0.019 0"><span class='ocrx_word' id='word_1_4' title='bbox 70 154 122 178; x_wconf 70' lang='lat' dir='ltr'>-ex</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 90 185 153 210; baseline 0.032 -2"><span class='ocrx_word' id='word_1_5' title='bbox 90 185 153 210; x_wconf 62' lang='lat'>12⁸8</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

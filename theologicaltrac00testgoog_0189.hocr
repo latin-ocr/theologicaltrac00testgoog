@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theologicaltrac00testgoog_0189.png"; bbox 0 0 598 915; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 111 806 140 820">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 111 806 140 820">
+     <span class='ocr_line' id='line_1_1' title="bbox 111 806 140 820; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 111 806 140 820; x_wconf 85' lang='lat'>170</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 280 52 369 67">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 280 52 369 67">
+     <span class='ocr_line' id='line_1_2' title="bbox 280 52 369 67; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 280 52 369 67; x_wconf 84' lang='lat' dir='ltr'>BOETHII</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 260 85 425 186">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 260 85 425 186">
+     <span class='ocr_line' id='line_1_3' title="bbox 260 85 397 105; baseline -0.007 -5"><span class='ocrx_word' id='word_1_3' title='bbox 260 85 337 105; x_wconf 82' lang='lat' dir='ltr'>Spemque</span> <span class='ocrx_word' id='word_1_4' title='bbox 344 85 397 104; x_wconf 73' lang='lat' dir='ltr'>fugato</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 261 105 394 121; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 261 106 293 121; x_wconf 79' lang='lat' dir='ltr'>Nec</span> <span class='ocrx_word' id='word_1_6' title='bbox 301 106 344 120; x_wconf 83' lang='lat' dir='ltr'>dolor</span> <span class='ocrx_word' id='word_1_7' title='bbox 350 105 394 120; x_wconf 41' lang='lat' dir='ltr'>adsi&amp;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 261 126 400 141; baseline -0.007 0"><span class='ocrx_word' id='word_1_8' title='bbox 261 126 317 141; x_wconf 78' lang='lat' dir='ltr'><strong>Nubila</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 324 130 367 140; x_wconf 69' lang='lat' dir='ltr'>mens</span> <span class='ocrx_word' id='word_1_10' title='bbox 375 128 400 140; x_wconf 76' lang='lat' dir='ltr'>est</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 260 146 405 166; baseline -0.007 -5"><span class='ocrx_word' id='word_1_11' title='bbox 260 147 346 166; x_wconf 62' lang='lat' dir='ltr'>vinetaque</span> <span class='ocrx_word' id='word_1_12' title='bbox 353 146 405 164; x_wconf 73' lang='lat' dir='ltr'>frenis,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 261 166 425 186; baseline 0 -5"><span class='ocrx_word' id='word_1_13' title='bbox 261 167 305 181; x_wconf 75' lang='lat' dir='ltr'>Haec</span> <span class='ocrx_word' id='word_1_14' title='bbox 313 167 338 181; x_wconf 80' lang='lat' dir='ltr'>uhi</span> <span class='ocrx_word' id='word_1_15' title='bbox 346 166 425 186; x_wconf 45' lang='lat' dir='ltr'>regnant?</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
